@@ -9,11 +9,11 @@ export default function Footer() {
 					<div className=' container flex justify-between items-center '>
 						<div className={`flex space-x-2 `}>
 							<Link href='http://dropbox.com'>
-								<a className={`m-0`}>PRESSKIT</a>
+								<a className={`m-0 hover:text-yellow-600`}>PRESSKIT</a>
 							</Link>
 
 							<Link href='http://dropbox.com'>
-								<a className={`m-0`}>CONTATO</a>
+								<a className={`m-0 hover:text-yellow-600`}>CONTATO</a>
 							</Link>
 						</div>
 						<div className={`flex space-x-2 `}>
