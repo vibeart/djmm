@@ -1,0 +1,12 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap"); */
+@font-face {
+	font-family: "geometr706_md_btblack";
+	src: url("geometric-706-black-bt-webfont.woff2") format("woff2"),
+		url("geometric-706-black-bt-webfont.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+body {
+	font-family: "geometr706_md_btblack", sans-serif;
+	letter-spacing: -1px;
+}
